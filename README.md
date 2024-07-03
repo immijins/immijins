@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hello,I'm&nbsp;Mijin&fontSize=90&stroke=FFFFFF&fontColor=222222)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F7F7F7&random=false&width=435&lines=let+mijin+%3D+%5B%22design%22%2C+%22frontEnd%22%2C+%22backEnd%22%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=999999&random=false&width=435&lines=let+mijin+%3D+%5B%22design%22%2C+%22frontEnd%22%2C+%22backEnd%22%5D)](https://git.io/typing-svg)
 
 더 나은, 더 좋은 코드를 위해 멈춤없이 나아가고 있습니다🚥
 
